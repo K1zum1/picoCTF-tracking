@@ -15,6 +15,7 @@ _A log of every picoCTF challenge I’ve solved as of **09/22/2024**_
 - **Challenge 246:** *PW Crack 2*  
 - **Challenge 46:** *logon*
 - **Challenge 173** *Cookies*
+- **Challenge 161** *Scavenger Hunt*
 
 ---
 
