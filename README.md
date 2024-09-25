@@ -27,6 +27,7 @@ Cryptography 🔐 | General Skills 🧩| Binary Exploitation 💣
 ## 🟡 **Medium Difficulty**  
 - **Challenge 349:** *findme* 🕸️
 - **Challenge 288:** *Power Cookie* 🕸️
+- **Challenege 304:** *SQLiLite* 🕸️
 
 ---
 
