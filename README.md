@@ -25,6 +25,7 @@ Cryptography 🔐 | General Skills 🧩| Binary Exploitation 💣
 - **Challenge 62** *13* 🔐
 - **Challenge 144** *Mod 26* 🔐
 - **Challenge 68** *The Numbers* 🔐
+- **Challenge 320** *First Find* 🧩
 ---
 
 ## 🟡 **Medium Difficulty**  
