@@ -1,5 +1,5 @@
 # 🚩 **picoCTF Tracking**  
-_A log of every picoCTF challenge I’ve solved as of **09/24/2024**_
+_A log of every picoCTF challenge I’ve solved as of **09/25/2024**_
 
 # **Categories**
 Web Exploitation 🕸️ | Forensic 🧪 | Reverse Engineering 🛠️  
@@ -21,6 +21,8 @@ Cryptography 🔐 | General Skills 🧩| Binary Exploitation 💣
 - **Challenge 161:** *Scavenger Hunt* 🕸️
 - **Challenge 4:** *where are the robots* 🕸️
 - **Challenge 18:** *Insp3ct0r* 🕸️
+- **Challenege 274** *Includes* 🕸️
+- **Challenge 62** *13* 🔐
 
 ---
 
