@@ -1,5 +1,5 @@
 # 🚩 **picoCTF Tracking**  
-_A log of every picoCTF challenge I’ve solved as of **09/25/2024**_
+_A log of every picoCTF challenge I’ve solved as of **09/26/2024**_
 
 # **Categories**
 Web Exploitation 🕸️ | Forensic 🧪 | Reverse Engineering 🛠️  
@@ -23,7 +23,8 @@ Cryptography 🔐 | General Skills 🧩| Binary Exploitation 💣
 - **Challenge 18:** *Insp3ct0r* 🕸️
 - **Challenege 274** *Includes* 🕸️
 - **Challenge 62** *13* 🔐
-
+- **Challenge 144** *Mod 26* 🔐
+- **Challenge 68** *The Numbers* 🔐
 ---
 
 ## 🟡 **Medium Difficulty**  
