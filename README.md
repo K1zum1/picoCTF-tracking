@@ -1,5 +1,5 @@
 # 🚩 **picoCTF Tracking**  
-_A log of every picoCTF challenge I’ve solved as of **09/26/2024**_
+_A log of every picoCTF challenge I’ve solved as of **10/20/2024**_
 
 # **Categories**
 Web Exploitation 🕸️ | Forensic 🧪 | Reverse Engineering 🛠️  
@@ -38,5 +38,6 @@ Cryptography 🔐 | General Skills 🧩| Binary Exploitation 💣
 
 ## 🔴 **Hard Difficulty**  
 - **Challenge 204:** *notepad* 🕸️
+- **Challenege 190:** *Bithug* 🕸️
 
 ---
